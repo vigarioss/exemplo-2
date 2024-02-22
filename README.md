@@ -28,6 +28,6 @@ Link:
 
 Tabela:
 
-Número |Número|Nota
+Número |Nome| Nota
 -|-|-
 1|Deivid|10

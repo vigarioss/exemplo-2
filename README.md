@@ -26,4 +26,8 @@ Código (entre crases)
 Link:
 [Site do IFC](https://ifc.edu.br/)
 
-<a href="[https://ifc.edu.br/]" target="_blank">example</a>
+Tabela:
+
+Número |Número|Nota
+-|-|-
+1|Deivid|10

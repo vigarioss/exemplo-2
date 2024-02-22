@@ -26,4 +26,4 @@ Código (entre crases)
 Link:
 [Site do IFC](https://ifc.edu.br/)
 
-<a href="[http://example.com/](https://ifc.edu.br/)" target="_blank">example</a>
+<a href="[https://ifc.edu.br/]" target="_blank">example</a>
